@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @lubinhc
-- 👀 I’m Working at web developer
-- 🌱 I’m currently learning react
-- 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me lubin.cardenas15.work@gmail.com
+- 👀 I’m a Frontend Developer with 2 years of real work experience
+- 👨🏻‍💻 I work with Shopify, Shopify liquid, React and Typescript
+- 📫 How to reach me lubin.cardenas15@gmail.com
 
 <!---
 lubinhc/lubinhc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
