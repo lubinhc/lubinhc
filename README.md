@@ -8,7 +8,7 @@ const aboutMe = {
    code: [Javascript, Typescript, Shopify Liquid, HTML, CSS, Git, Figma],
    technologies: {
       frontEnd: {
-         js: ["React", "Jquery"],
+         js: ["React", "Jquery", "Shopify Liquid"],
          css: ["Tailwind",  "Styled Components", "MUI", "Bootstrap"]
       }
    },
