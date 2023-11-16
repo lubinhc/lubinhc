@@ -2,9 +2,9 @@
 - 📫 How to reach me lubin.cardenas15@gmail.com
 ```javascript
 const aboutMe = {
-   experience: ["I'm a Frontend Developer with 2 years of experience,
-   working with +8 projects with React and TypeScript,
-   and working with +25 stores in Shopify liquid"],
+   experience: ["I'm a Frontend Developer with 3 years of experience,
+   working with +10 projects with React and TypeScript,
+   and working with +30 stores in Shopify liquid"],
    code: [Javascript, Typescript, Shopify Liquid, HTML, CSS, Git, Figma],
    technologies: {
       frontEnd: {
