@@ -27,8 +27,7 @@ const aboutMe = {
 <p>Shopify store, create new sections and redesign other sections, also day-to-day work <a target="_BLANK" href="https://eatgreatergoods.com">Greater Goods</a>.</p>
 <p>Shopify store Redesing and create the whole homepage <a target="_BLANK" href="https://euclove.com.au">Euclove</a>.</p>
 <p>Shopify plus Multinational store, SEO optimization and speed improvement <a target="_BLANK" href="https://rubylove.com">RubyLove</a>.</p>
-<p>And more! contact me if you are interested, My CV <a target="_BLANK" href="
-">here 📌</a>.</p>
+<p>And more! contact me if you are interested, My CV <a target="_BLANK" href="#">here 📌</a>.</p>
 
 
 <!---
