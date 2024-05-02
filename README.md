@@ -23,7 +23,7 @@ const aboutMe = {
 
 <p>Shopify plus, day-to-day work, bug fixing, implement new features, etc. <a target="_BLANK" href="https://duradry.com">Duradry</a>.</p>
 <p>Shopify membership system implementation, etc. <a target="_BLANK" href="https://kochguru.ch">Kochguru</a>.</p>
-<p>Shopify plus, Design sections, bu fixing, feature implementation, day-to-day work <a target="_BLANK" href="https://shopliquidrubber.com">Liquid Rubber</a>.</p>
+<p>Shopify plus, Redesign homepage, Design sections, bu fixing, feature implementation, day-to-day work <a target="_BLANK" href="https://shopliquidrubber.com">Liquid Rubber</a>.</p>
 <p>Shopify Store Redesign homepage, How-to, Results, FAQ and more <a target="_BLANK" href="https://gussihair.com">Gussi Hair</a>.</p>
 <p>Shopify plus, subscription products templates and day-to-day work <a target="_BLANK" href="https://themagic5.com">The Magic 5</a>.</p>
 <p>Shopify store, create new sections and redesign other sections, also day-to-day work <a target="_BLANK" href="https://eatgreatergoods.com">Greater Goods</a>.</p>
