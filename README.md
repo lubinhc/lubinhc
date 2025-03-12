@@ -1,22 +1,23 @@
 # Hello, Im Lubin! 👨🏻‍💻
-- 📫 How to reach me lubin.cardenas15@gmail.com
+- 📫 How to reach me lubin.work15@gmail.com
 ```javascript
 const aboutMe = {
-   experience: ["I'm a Shopify Developer with over 3 years of experience,
+   experience: ["I'm a Shopify Developer with 4 years of experience,
    working with +10 projects with React and TypeScript,
-   and working with +30 stores in Shopify"],
+   and working with +60 stores in Shopify"],
    code: [Javascript, Typescript, Shopify Liquid, Ruby, Shopify API, Git, Figma],
    technologies: {
       frontEnd: {
          js: ["React", "Shopify Liquid"],
          css: ["Tailwind",  "Styled Components", "MUI", "Bootstrap"]
       },
-      backEnd: ["Ruby on Rails", "Shopify API", "Rest Admin API", "Node Js", "Nginx"]
+      backEnd: ["Ruby on Rails", "Shopify API", "Rest Admin API"]
    },
    currentOccupation: ["Working as Shopify Expert in Liquid and making custom Apps"]
 };
 ```
 # Projects 📁
+<p>My portfolio <a target="_BLANK" href="lubindev.com">HERE</a>.</p>
 
 <p>React, TypeScript UI web3 game <a target="_BLANK" href="https://play.hellocoaster.io">Hello Coaster</a>.</p>
 <p>React, Tailwind, Styled Components <a target="_BLANK" href="https://vidlo.video/">Vidlo</a>.</p>
