@@ -17,7 +17,7 @@ const aboutMe = {
 };
 ```
 # Projects 📁
-<p>My portfolio <a target="_BLANK" href="lubindev.com">HERE</a>.</p>
+<p>My portfolio <a target="_BLANK" href="https://lubindev.com">lubindev.com</a>.</p>
 
 <p>React, TypeScript UI web3 game <a target="_BLANK" href="https://play.hellocoaster.io">Hello Coaster</a>.</p>
 <p>React, Tailwind, Styled Components <a target="_BLANK" href="https://vidlo.video/">Vidlo</a>.</p>
